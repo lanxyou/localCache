@@ -1,6 +1,7 @@
 localStorage
 ========================
-#方法
+##方法
+
 *setItem
 *getItem
 *removeItem
