@@ -2,7 +2,7 @@ localStorage
 ========================
 ##方法
 
-*setItem
-*getItem
-*removeItem
-*clear
+* setItem
+* getItem
+* removeItem
+* clear
